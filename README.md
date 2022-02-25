@@ -1,3 +1,3 @@
-# Time-Series
-Modeling the Number of Positive Covid19 Cases in the USA using Time Se-
-ries Models using R Programming
+# Time Series
+Supporting code for my project on modeling the number of positive Covid19 cases in the USA using Time Se-
+ries models using R programming
